@@ -14,8 +14,13 @@
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nguyen.thanh.nam.432103)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntn_carameoo)
+
 <img src="https://komarev.com/ghpvc/?username=oopsntn&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 ---
+
 <div align="center">
   
 ### 🧠 Philosophy
@@ -55,7 +60,7 @@ fn build_system() -> Result<()> {
 - 🎯 **User-Centric** - UX is not optional
 - 🔬 **Deep Diver** - Understanding systems from the ground up
 - 🛠️ **Framework Creator** - Building tools for myself
-- 📱 **ROM Developer** - Custom Android experiences
+- 📱 **ROM Developer** - Custom Android/HarmonyOS experiences
 - 🌐 **Ecosystem Architect** - Connecting everything together
 
 </td>
@@ -85,25 +90,27 @@ fn build_system() -> Result<()> {
 ### 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>⚙️ System Level & Low-Level Programming</b></summary>
+<summary><b>⚙️ OS Development & Custom ROMs</b></summary>
 <br>
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Focus:** OS development, Custom ROMs, Performance optimization, Memory management
+
+
+**Focus:** System-level programming, Performance optimization, Memory management, Cross-platform systems
 
 </details>
 
 <details open>
 <summary><b>🌐 Full Stack Development</b></summary>
 <br>
-
+  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ArkUI](https://img.shields.io/badge/ArkUI-FF6B00?style=for-the-badge&logo=huawei&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -164,6 +171,7 @@ graph TB
     style C fill:#45b7d1
     style D fill:#96ceb4
 ```
+
 ```mermaid
 mindmap
   root((Full Stack Development))
@@ -184,6 +192,7 @@ mindmap
       System Design
       Clean Architecture
 ```
+
 ---
 
 ### 💡 Code Philosophy
@@ -284,6 +293,7 @@ mindmap
 
 ---
 
+<div align="center">
 
 **Open to collaborating on:** System-level projects, IoT ecosystems, Performance optimization, Custom frameworks
 
@@ -292,7 +302,6 @@ mindmap
 ---
 
 <div align="center">
-  
   
   ### 🔥 Building the future, one system at a time
   
