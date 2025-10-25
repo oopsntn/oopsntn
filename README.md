@@ -8,12 +8,14 @@
 
 </div>
 
-### 📫 Connect
-
 <div align="center">
+  
+### 📫 Connect
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nguyen.thanh.nam.432103)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntn_carameoo)
+<img src="https://komarev.com/ghpvc/?username=oopsntn&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+---
 <div align="center">
   
 ### 🧠 Philosophy
@@ -290,7 +292,7 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oopsntn&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+  
   
   ### 🔥 Building the future, one system at a time
   
