@@ -4,10 +4,16 @@
 
 <div align="center">
   
-### 📍 Bac Ninh, Vietnam 🇻🇳
+### 📍 Bắc Ninh, Việt Nam
 
 </div>
 
+### 📫 Connect
+
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nguyen.thanh.nam.432103)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntn_carameoo)
 <div align="center">
   
 ### 🧠 Philosophy
@@ -276,12 +282,6 @@ mindmap
 
 ---
 
-### 📫 Connect
-
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nguyen.thanh.nam.432103)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntn_carameoo)
 
 **Open to collaborating on:** System-level projects, IoT ecosystems, Performance optimization, Custom frameworks
 
